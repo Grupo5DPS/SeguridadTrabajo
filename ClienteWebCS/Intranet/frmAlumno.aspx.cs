@@ -13,7 +13,7 @@ public partial class Intranet_frmAlumno : System.Web.UI.Page
     }
     protected void btnReporte1_Click(object sender, EventArgs e)
     {
-        mvAlumno.ActiveViewIndex = 0;
+        mvAlumno.ActiveViewIndex = 0 ;
     }
     protected void btnReporte2_Click(object sender, EventArgs e)
     {
